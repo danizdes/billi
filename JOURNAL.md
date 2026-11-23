@@ -19,3 +19,14 @@ alot of annoying issues but i hope smth neat comes from it by the end!
 *small beggings* 🥹 also I just tried using the hackclub CDN thing and it's so awesome omds THANK YOU hackclub
 
 **TOTAL TIME: ~10 Minutes**
+
+# Nov 23, 2026: First schematic!
+
+![image](https://cdn.hackclub.com/01a20926-5051-7df6-966c-2bf6523fb933/paste-1795449835260.png)
+
+Okay hold on.. I know this is absolely ahh but it's my first ever schematic design 😭. I'm not entirely sure about the parts or even
+the connections tbh. I'll look into both of them more and fix them up before i move further!
+
+On second thought I think maybe it's better if I first make sure what exactly i want this device to do, like the parts, how it should function/work etc. So I could confidently then pick the specific parts. 
+
+**TOTAL TIME: ~25 Minutes**
