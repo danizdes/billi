@@ -39,3 +39,12 @@ Okay so I layed out the basic project layout. I used the opensource app **pomotr
 better idea for picking the right parts!
 
 **TOTAL TIME: ~18 Minutes**
+
+# Nov 24, 2026: Finalised parts
+
+![image](https://cdn.hackclub.com/01a20e86-1da3-79a0-aac0-15063a9c7db8/paste-1795539998526.png)
+
+Okay so now that I know the flow of the program, I confirmed the parts i'd want. I'll go check the pins and specifications now to make the schematic and stuff. I also found the 
+exact parts on aliexpress which is said to be the cheapest place to buy parts soo, will probably double check prices/listings right before submitting it.
+
+**TOTAL TIME: ~26 Minutes**
