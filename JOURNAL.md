@@ -30,3 +30,12 @@ the connections tbh. I'll look into both of them more and fix them up before i m
 On second thought I think maybe it's better if I first make sure what exactly i want this device to do, like the parts, how it should function/work etc. So I could confidently then pick the specific parts. 
 
 **TOTAL TIME: ~25 Minutes**
+
+# Nov 24, 2026: Basic Project Layout
+
+![image](https://cdn.hackclub.com/01a20e65-8562-738e-a3f6-1246932ed7b1/paste-1795537862532.png)
+
+Okay so I layed out the basic project layout. I used the opensource app **pomotroid** as inspo for the interface. This should give me a 
+better idea for picking the right parts!
+
+**TOTAL TIME: ~18 Minutes**
