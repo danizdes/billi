@@ -48,3 +48,11 @@ Okay so now that I know the flow of the program, I confirmed the parts i'd want.
 exact parts on aliexpress which is said to be the cheapest place to buy parts soo, will probably double check prices/listings right before submitting it.
 
 **TOTAL TIME: ~26 Minutes**
+
+# Nov 25, 2026: Getting Specifications
+
+Okay so it's technically nov 25, tho i'm staying up late at night cause why not lmao, but I FINALLY
+got the specifications for one of the displays and ITS SUCH A PAIN OH MY DAYS 😭. Finding the exact specific
+one when there are so many that look exactly the same, thank heavens tho i found the right one.
+
+![image](https://cdn.hackclub.com/01a21072-8c0c-7251-982a-4f0f82f817fe/paste-1795572270680.png)
