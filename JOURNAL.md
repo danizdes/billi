@@ -64,7 +64,6 @@ Alrighty second journal, so I'm looking at the exact pin layouts for the specifi
 ![image](https://cdn.hackclub.com/01a210a9-63b8-7e50-8343-eeed8d3aaed8/paste-1795575860747.png)
 
 The amount of ERC errors I had to deal with oh my days 😭 I think this is still pretty bad but it's WAAY better
-than my last schematic i made. I tried to put the actual parts I could find, and used generic connecters for the
-basic ones.
+than my last schematic i made. I tried to put the actual parts I could find, and used generic connecters for the basic ones. I'll try to improve this further while also fixing any lingering issues before I start designing the PCB
 
 **TOTAL TIME: ~1 hour**
