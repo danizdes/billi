@@ -56,3 +56,5 @@ got the specifications for one of the displays and ITS SUCH A PAIN OH MY DAYS ðŸ
 one when there are so many that look exactly the same, thank heavens tho i found the right one.
 
 ![image](https://cdn.hackclub.com/01a21072-8c0c-7251-982a-4f0f82f817fe/paste-1795572270680.png)
+
+**TOTAL TIME: ~20 Minutes**
