@@ -67,3 +67,11 @@ The amount of ERC errors I had to deal with oh my days 😭 I think this is stil
 than my last schematic i made. I tried to put the actual parts I could find, and used generic connecters for the basic ones. I'll try to improve this further while also fixing any lingering issues before I start designing the PCB
 
 **TOTAL TIME: ~1 hour**
+
+# Nov 26, 2026
+
+Cross checked and referenced EVERYTHING, I think the schematic is good 🥹
+
+![image](https://cdn.hackclub.com/01a21999-4389-7c7e-8a0b-a9863b972b65/paste-1795725802722.png)
+
+**TOTAL TIME: 25 Minutes**
